@@ -9,3 +9,6 @@
 2.A supervised learning approach is used to enable the filter to differentiate between spam and ham
 
 3.The filter is trained on 70% off spam & ham corpus that requires Feature Extraction and calculation of spam probability of the extracted feature, fi , using a naïve Bayes
+
+
+![Email Spam](https://user-images.githubusercontent.com/73248098/176253992-9f33c4c0-ceee-472f-9b33-853e0fb31bc1.png)
